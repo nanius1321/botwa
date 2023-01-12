@@ -223,5 +223,5 @@ npm i -g pm2 && pm2 start zxork.js && pm2 save && pm2 logs
 * [`DGXeon`](https://github.com/DGXeon)
 * [`Ditz`](https://github.com/RavensVenix)               
 * [`Rara`](https://github.com/RavensVenix)
-* [`FajarBBS`](https://github.com/RavensVenix)
+* [`FajarBBS`](https://github.com/fajarbbsnih)
 * [`Miracle Keagan`](https://github.com/miraclekak)
