@@ -27,29 +27,29 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.saweria = "https://saweria.co/xylaa" // saweria donation
-global.sociabuzz = "https://sociabuzz.com/luciaximena/tribe" // saweria donation
+global.saweria = "https://saweria.co/" // saweria donation
+global.sociabuzz = "https://sociabuzz.com/botdx/tribe" // saweria donation
 global.nyawer = "https://nyawer.co/cecilia/showcase" // saweria donation
 global.groupwea = "https://chat.whatsapp.com/EJ0c8rr1jrJK7BvxNOZFs2" // group bot
-global.vcardowner = ['6281338302495'] //number
-global.allpay = "082146482998" // nomor pertama / first number donate
+global.vcardowner = ['6285894427299'] //number
+global.allpay = "085894427299" // nomor pertama / first number donate
 global.ownername = 'Cecilia Lucia Ximena' //owner
 global.email = "📧 vynx14u@gmail.com" //email
-global.website = "luciaximena.site" //github name
+global.website = "botdx.com" //github name
 global.location = "🌍 Isekai, Taman Hiburan Milf, Pemandian Umum Wanita" //location
-global.roblox = "👾 Roblox : @JustRyyXD" //roblox
-global.ig = "👑 Instagram : @ravensvenix" //insta
-global.tg = "💙 Telegram : @vmxone" //telegram
+global.roblox = "👾 Roblox : @roblox" //roblox
+global.ig = "👑 Instagram : @instagram" //insta
+global.tg = "💙 Telegram : @telegram" //telegram
 
 //bot bomdy 
 global.groupbot = "https://chat.whatsapp.com/EJ0c8rr1jrJK7BvxNOZFs2"
-global.owner = ['6281338302495']
-global.ownernomer = "6281338302495" //ur number
-global.ownernomer2 = "6285338440313" // second number
-global.ownernomer3 = "6283899515608" // stfu
-global.ownertag = '6281338302495', '6285338440313', '6283899515608' //ur tag number
-global.botname = 'CeciliaMD' //ur bot name
-global.ghname = 'RavensVenix' //ur github name
+global.owner = ['6285894427299']
+global.ownernomer = "6285894427299" //ur number
+global.ownernomer2 = "6285894427299" // second number
+global.ownernomer3 = "6285894427299" // stfu
+global.ownertag = '6285894427299', '6285894427299' //ur tag number
+global.botname = 'BotDx' //ur bot name
+global.ghname = 'nanius1321' //ur github name
 global.linkz = "https://chat.whatsapp.com/EJ0c8rr1jrJK7BvxNOZFs2" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/EJ0c8rr1jrJK7BvxNOZFs2" //ur website to be displayed
 global.thumbyt = "https://www.youtube.com/watch?v=aHnaBbLKEww" //change if you want to change thumbnail menu
@@ -74,48 +74,9 @@ global.arakaras = ["./vn/ara ara.mp3","./vn/ara ara goblok.mp3","./vn/araaa.mp3"
 global.nolaks = ["./vn/ga mau.mp3","./vn/ga boleh.mp3","./vn/ga da.mp3"]
 
 //damtabase
-global.jasa = (`「 *Jasa Run Bot* 」
-*Platform : Google Cloud SDK*
-*Performa : Best*
-*Ram : 8GB Free*
-*Ping : 0012 Seconds*
-
-*Prices List 📍*
-*1 Week / 5K*
-*2 Week / 10K*
-*3 Week / 15K*
-*1 Month / 20K*
-
-*Anti Drop + Anti Lag*🔰
-
-「 *Beli APIKEY* 」
-*Keuntungan*✅
-*-Custom Apikey*
-*-Unlimited Limit*
-*-Banyak Fitur*
-
-*Prices List 🔖*
-*1 Week / 7k*
-*2 Week / 11k*
-*3 Week / 15k*
-*1 Bulan / 20k*
-
-Demo : *https://luciaximena.site*
+global.jasa = (`
 
 「 *Beli Premium* 」
-*Keuntungan* ✅
-*Fast Respond*
-*No Limit*
-*ai*
-*nsfw features*
-*simi*
-*simien*
-*nuliskiri*
-*nuliskanan*
-*toanime*
-*can add bot to group*
-*RentBot / JadiBot*
-*Premium Features*
 
 *Prices List📌*
 *1 Week / 5k*
@@ -128,7 +89,7 @@ Demo : *https://luciaximena.site*
 *Dijamin Premium Puas!!*
 
 Minat🫐
-Conatct ☎️ : *wa.me/6281338302495*`)
+Conatct ☎️ : *wa.me/6285894427299*`)
 global.rules = (`「 *RULES* 」
 	  「 *INDONESIAN* 」
 
@@ -202,7 +163,7 @@ global.autoread = false
 global.autorespond = true
 global.autoonline = false
 global.autosw = true
-global.sendsw = '6281338302495@s.whatsapp.net'
+global.sendsw = '6285894427299@s.whatsapp.net'
 global.autobio = false
 global.prefix = [`.`]
 global.sp = '⭔'
